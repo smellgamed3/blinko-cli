@@ -47,7 +47,7 @@ blinko history <id>
 blinko create "用 AI 生成周报"
 ```
 
-输出: `✓ Created 闪记 #101`
+输出: `✓ 已创建 闪记 #101`
 
 ---
 

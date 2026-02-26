@@ -1,0 +1,15 @@
+{
+  "name": "blinko-cli",
+  "version": "0.1.0",
+  "description": "CLI for managing Blinko notes",
+  "type": "commonjs",
+  "bin": {
+    "blinko": "./dist/cli.js"
+  },
+  "scripts": {
+    "smoke": "node ./dist/cli.js list -s 1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
